@@ -1,0 +1,20 @@
+JSX {
+
+1. Install React Navigation 
+
+npm install react-navigation 
+
+ou 
+
+yarn add react-navigation
+
+
+2. Install Dependencies
+ expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+3. Install React Drawer Navigation
+npm install react-navigation-stack @react-native-community/masked-view
+
+yarn add react-navigation-stack @react-native-community/masked-view
+
+}

@@ -1,0 +1,6 @@
+DRAWER NAVIGATOR --- SENAI VAGAS
+
+BottomTabNavigator -- intagram
+
+StackNavigator
+
